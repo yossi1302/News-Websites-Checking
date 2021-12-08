@@ -1,4 +1,3 @@
-
 import PutingAllTogether
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QIcon
